@@ -1,15 +1,13 @@
 {
-  "publisher": "antfu",
+  "publisher": "shawn",
   "name": "ext-name",
   "displayName": "ext-name",
   "version": "0.0.0",
   "private": true,
   "packageManager": "pnpm@8.6.0",
   "description": "",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "author": "Shawn lin",
   "license": "MIT",
-  "funding": "https://github.com/sponsors/antfu",
-  "homepage": "https://github.com/antfu/ext-name#readme",
   "repository": {
     "type": "git",
     "url": "https://github.com/antfu/ext-name"
