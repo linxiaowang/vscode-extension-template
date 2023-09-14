@@ -1,8 +1,8 @@
 {
   "publisher": "shawn",
-  "name": "ext-name",
-  "displayName": "ext-name",
-  "version": "0.0.0",
+  "name": "hello-shawn",
+  "displayName": "hello-shawn",
+  "version": "0.0.1",
   "private": true,
   "packageManager": "pnpm@8.6.0",
   "description": "",
@@ -10,13 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/antfu/ext-name"
-  },
-  "bugs": {
-    "url": "https://github.com/antfu/ext-name/issues"
-  },
-  "sponsor": {
-    "url": "https://github.com/sponsors/antfu"
+    "url": "https://github.com/linxiaowang/vscode-extension-template"
   },
   "categories": [
     "Other"
